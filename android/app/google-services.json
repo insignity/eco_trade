@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712754058245",
+    "project_id": "eco-trade",
+    "storage_bucket": "eco-trade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712754058245:android:3ae8c370a5fa5bbcf5f86c",
+        "android_client_info": {
+          "package_name": "com.example.eco_trade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712754058245-j8prgn0hcgebvpk2g5e19pn85r1hhsg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8xE1FdpcH3hMzzw1sktAVixK5ewFKvKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712754058245-j8prgn0hcgebvpk2g5e19pn85r1hhsg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
